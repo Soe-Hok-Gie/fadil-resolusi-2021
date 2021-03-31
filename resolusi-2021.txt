@@ -2,4 +2,4 @@ Resolusi 2021
 
 - Dalami coding
 - Belajar GIT & GITHUB
-- Belajar bahasa Asing
+- Belajar fundamental Fundamental React
