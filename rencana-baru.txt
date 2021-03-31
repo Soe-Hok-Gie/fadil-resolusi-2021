@@ -7,4 +7,6 @@ Rencana Baru
   *Fundamental untuk web
   
 - Javacsript Fundamental
+ > belajar react
+ > belajar node js
 
