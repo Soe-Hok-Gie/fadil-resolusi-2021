@@ -7,6 +7,6 @@ Rencana Baru
   *Fundamental untuk web
   
 - Javacsript Fundamental
-  .belajar angular
+  .belajar react js
   .belajar node js
 
