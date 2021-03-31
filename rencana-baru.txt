@@ -1,6 +1,10 @@
 Rencana Baru
 
-- HTML Fundamental
+- HTML 
+  *Html Fundamental untuk web
+  
 - Css Fundamental
+  *Fundamental untuk web
+  
 - Javacsript Fundamental
 
