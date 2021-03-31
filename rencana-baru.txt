@@ -8,4 +8,5 @@ Rencana Baru
   
 - Javacsript Fundamental
  > belajar react
+ > belajar node js
 
